@@ -8,10 +8,11 @@ h1 {
 }
 
 .project {
-    text-align: center;
+    text-align: left;
 }
 
 .project_title {
+    text-align: center;
     font-size: 20px;
 }
 
